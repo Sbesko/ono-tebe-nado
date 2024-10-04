@@ -1,5 +1,5 @@
 
-.header{
+.header {
     width: 100%;
     max-width: 1100px;
     display: grid;
@@ -19,7 +19,7 @@
     list-style: circle;
 }
 
-.header__links-list-item{
+.header__links-list-item {
     text-decoration: underline solid black 0.5px;
     text-underline-offset: 4px;
 }
@@ -207,8 +207,8 @@
     line-height: 24px;
 }
 
-.card_type_film {  
-    background-image: url(../images/card-lot-01.jpg); 
+.card_type_film {
+    background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_type_book {
@@ -291,7 +291,7 @@
 }
 
 .footer__menu {
-    text-align: center;  
+    text-align: center;
 }
 
 .footer__menu-list {
